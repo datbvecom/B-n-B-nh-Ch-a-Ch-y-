@@ -15,5 +15,5 @@ Mỗi loại sẽ được xử lý 1 hoặc 1 vài loại cháy khác nhau.
 Điện thoại: 0274 3814 142
 DĐ: 0916 400 114
 Địa chỉ: Số 4/21 KP Hòa Lân 1, P.Thuận Giao, TX.Thuận An, Bình Dương.
-Email: kd01.stt@gmail.com
+Email: kd01.stt@gmail.com<br>
 Website: https://www.thietbiphongchay.org
